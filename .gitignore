@@ -43,6 +43,5 @@ _deps
 *.app
 
 /build
-/rnbo
 .vscode
 miniaudio.h
